@@ -1,0 +1,27 @@
+ServerTitle: §f§lAutoZS
+BorderColor: §7§l
+
+AutoProgress: false
+
+RestTime: 60
+ReadyTime: 30
+RoundTime: 180
+
+RoundCount: 3
+
+HeroCount:
+  Start: 5
+  Gap: 5
+HostCount:
+  Start: 5
+  Gap: 5
+
+DefaultSetting: true
+
+SetHead: true
+FixedHelmet: true
+FixedChestplate: true
+FixedLeggings: true
+FixedBoots: true
+FixedFoodLevel: true
+FixedDurability: true
